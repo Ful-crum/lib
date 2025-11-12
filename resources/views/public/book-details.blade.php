@@ -159,7 +159,7 @@
                             </li>
                             <li class="mb-2">
                                 <i class="bi bi-exclamation-triangle me-2 text-warning"></i>
-                                Amende en cas de retard : <strong>5 DH/jour</strong>
+                                Amende en cas de retard : <strong>0.50€/jour</strong>
                             </li>
                         </ul>
                     </div>
